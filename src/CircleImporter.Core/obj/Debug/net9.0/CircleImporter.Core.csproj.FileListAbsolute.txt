@@ -1,0 +1,12 @@
+D:\Projects\CircleImporter\src\CircleImporter.Core\bin\Debug\net9.0\CircleImporter.Core.deps.json
+D:\Projects\CircleImporter\src\CircleImporter.Core\bin\Debug\net9.0\CircleImporter.Core.dll
+D:\Projects\CircleImporter\src\CircleImporter.Core\bin\Debug\net9.0\CircleImporter.Core.pdb
+D:\Projects\CircleImporter\src\CircleImporter.Core\obj\Debug\net9.0\CircleImporter.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CircleImporter\src\CircleImporter.Core\obj\Debug\net9.0\CircleImporter.Core.AssemblyInfoInputs.cache
+D:\Projects\CircleImporter\src\CircleImporter.Core\obj\Debug\net9.0\CircleImporter.Core.AssemblyInfo.cs
+D:\Projects\CircleImporter\src\CircleImporter.Core\obj\Debug\net9.0\CircleImporter.Core.csproj.CoreCompileInputs.cache
+D:\Projects\CircleImporter\src\CircleImporter.Core\obj\Debug\net9.0\CircleImporter.Core.sourcelink.json
+D:\Projects\CircleImporter\src\CircleImporter.Core\obj\Debug\net9.0\CircleImporter.Core.dll
+D:\Projects\CircleImporter\src\CircleImporter.Core\obj\Debug\net9.0\refint\CircleImporter.Core.dll
+D:\Projects\CircleImporter\src\CircleImporter.Core\obj\Debug\net9.0\CircleImporter.Core.pdb
+D:\Projects\CircleImporter\src\CircleImporter.Core\obj\Debug\net9.0\ref\CircleImporter.Core.dll
