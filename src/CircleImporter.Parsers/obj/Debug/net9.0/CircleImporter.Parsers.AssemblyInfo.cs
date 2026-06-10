@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CircleImporter.Parsers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa54166bda5e60f1c3a29e34037f8de48fa613e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cdf238c085b2f2c96d451c6810eb7a911551189")]
 [assembly: System.Reflection.AssemblyProductAttribute("CircleImporter.Parsers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CircleImporter.Parsers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
